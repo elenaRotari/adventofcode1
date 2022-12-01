@@ -17,5 +17,7 @@ const toArray = string
       return acc;
     }, 0)
   )
-  .sort((a, b) => b - a);
+  .sort((a, b) => b - a)
+  .splice(0, 3)
+  .reduce((acc, el) => acc + el);
 console.log(toArray);
