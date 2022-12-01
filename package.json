@@ -1,0 +1,24 @@
+{
+  "name": "adventofcode1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "start": "nodemon solution.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenaRotari/adventofcode1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenaRotari/adventofcode1/issues"
+  },
+  "homepage": "https://github.com/elenaRotari/adventofcode1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
